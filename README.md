@@ -21,6 +21,7 @@ Use Tableau to create interactive and insightful visualizations that highlight t
 Dashboards that provide an overview of the campaign performance metrics.
 Time-series charts to visualize trends over time.
 Comparison charts to identify the best and worst-performing campaigns.
+![Campaign Performance](https://github.com/user-attachments/assets/e42cff7e-e621-43dc-8ba3-a788af5a6d00)
 
 ### Dataset
 The dataset used in this project is a synthetic dataset created for the purpose of this analysis. It includes information on various marketing campaigns conducted between January 2022 and December 2024. The dataset contains the following columns:
